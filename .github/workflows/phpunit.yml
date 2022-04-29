@@ -3,7 +3,7 @@ name: Laravel
 on:
   push:
   pull_request:
-z
+
 env:
   DB_USERNAME: sail
   DB_PASSWORD: password
