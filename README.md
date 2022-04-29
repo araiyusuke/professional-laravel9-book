@@ -1,3 +1,3 @@
 LaravelとHerokuの連携
 
-tst
+heroku logs

@@ -10,4 +10,8 @@ class IndexController extends Controller
 	public function show() {
 		return 'さしみ';
 	}
+
+	public function showId($id) {
+		return "Hello {$id}";
+	}
 }
